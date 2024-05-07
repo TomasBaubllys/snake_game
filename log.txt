@@ -1,0 +1,181 @@
+Started: Tue Jan 23 16:22:44 2024
+Ended: Tue Jan 23 16:24:53 2024
+Time elapsed: 129 seconds
+Started: Tue Jan 23 16:25:05 2024
+Ended: Tue Jan 23 16:25:55 2024
+Time elapsed: 50 seconds
+Started: Tue Jan 23 16:26:24 2024
+Ended: Tue Jan 23 16:27:14 2024
+Time elapsed: 50 seconds
+Started: Tue Jan 23 16:30:35 2024
+Ended: Tue Jan 23 16:31:02 2024
+Time elapsed: 27 seconds
+Started: Tue Jan 23 17:35:40 2024
+Ended: Tue Jan 23 17:35:46 2024
+Time elapsed: 6 seconds
+Started: Tue Jan 23 17:37:00 2024
+Ended: Tue Jan 23 17:37:10 2024
+Time elapsed: 10 seconds
+Started: Tue Jan 23 17:38:00 2024
+Ended: Tue Jan 23 17:38:37 2024
+Time elapsed: 37 seconds
+Started: Tue Jan 23 17:39:20 2024
+Ended: Tue Jan 23 17:39:45 2024
+Time elapsed: 25 seconds
+Started: Tue Jan 23 17:45:06 2024
+Ended: Tue Jan 23 17:45:26 2024
+Time elapsed: 20 seconds
+Started: Tue Jan 23 17:51:55 2024
+Ended: Tue Jan 23 17:52:09 2024
+Time elapsed: 14 seconds
+Started: Tue Jan 23 17:53:33 2024
+Ended: Tue Jan 23 17:54:10 2024
+Time elapsed: 37 seconds
+Started: Tue Jan 23 17:55:41 2024
+Ended: Tue Jan 23 17:56:06 2024
+Time elapsed: 25 seconds
+Started: Tue Jan 23 21:57:29 2024
+Ended: Tue Jan 23 22:03:28 2024
+Time elapsed: 359 seconds
+Started: Tue Jan 23 22:11:41 2024
+Ended: Tue Jan 23 22:11:57 2024
+Time elapsed: 16 seconds
+Started: Tue Jan 23 22:15:34 2024
+Ended: Tue Jan 23 22:16:14 2024
+Time elapsed: 40 seconds
+Started: Tue Jan 23 22:19:12 2024
+Ended: Tue Jan 23 22:19:21 2024
+Time elapsed: 9 seconds
+Started: Tue Jan 23 22:20:04 2024
+Ended: Tue Jan 23 22:20:15 2024
+Time elapsed: 11 seconds
+Started: Tue Jan 23 22:21:00 2024
+Ended: Tue Jan 23 22:21:31 2024
+Time elapsed: 31 seconds
+Started: Tue Jan 23 22:23:10 2024
+Ended: Tue Jan 23 22:24:48 2024
+Time elapsed: 98 seconds
+Started: Tue Jan 23 22:26:19 2024
+Ended: Tue Jan 23 22:26:24 2024
+Time elapsed: 5 seconds
+Started: Tue Jan 23 22:27:26 2024
+Ended: Tue Jan 23 22:28:47 2024
+Time elapsed: 81 seconds
+Started: Tue Jan 23 22:39:39 2024
+Ended: Tue Jan 23 22:44:50 2024
+Time elapsed: 311 seconds
+Started: Tue Jan 23 22:45:28 2024
+Ended: Tue Jan 23 22:46:19 2024
+Time elapsed: 51 seconds
+Started: Tue Jan 23 22:46:25 2024
+Ended: Tue Jan 23 22:46:42 2024
+Time elapsed: 17 seconds
+Started: Tue Jan 23 22:46:55 2024
+Ended: Tue Jan 23 22:46:58 2024
+Time elapsed: 3 seconds
+Started: Tue Jan 23 22:47:08 2024
+Ended: Tue Jan 23 22:47:19 2024
+Time elapsed: 11 seconds
+Started: Tue Jan 23 22:49:13 2024
+Ended: Tue Jan 23 22:49:17 2024
+Time elapsed: 4 seconds
+Started: Tue Jan 23 22:49:48 2024
+Ended: Tue Jan 23 22:50:19 2024
+Time elapsed: 31 seconds
+Started: Tue Jan 23 22:50:55 2024
+Ended: Tue Jan 23 22:51:22 2024
+Time elapsed: 27 seconds
+Started: Tue Jan 23 22:52:33 2024
+Ended: Tue Jan 23 22:53:18 2024
+Time elapsed: 45 seconds
+Started: Wed Jan 24 12:10:22 2024
+Ended: Wed Jan 24 12:11:44 2024
+Time elapsed: 82 seconds
+Started: Wed Jan 24 12:50:02 2024
+Ended: Wed Jan 24 12:51:05 2024
+Time elapsed: 63 seconds
+Started: Wed Jan 24 12:52:14 2024
+Ended: Wed Jan 24 12:53:05 2024
+Time elapsed: 51 seconds
+Started: Wed Jan 24 12:58:38 2024
+Ended: Wed Jan 24 12:59:09 2024
+Time elapsed: 31 seconds
+Started: Wed Jan 24 13:01:46 2024
+Ended: Wed Jan 24 13:03:21 2024
+Time elapsed: 95 seconds
+Started: Wed Jan 24 13:04:57 2024
+Ended: Wed Jan 24 13:05:20 2024
+Time elapsed: 23 seconds
+Started: Wed Jan 24 13:07:05 2024
+Ended: Wed Jan 24 13:07:16 2024
+Time elapsed: 11 seconds
+Started: Wed Jan 24 13:09:22 2024
+Started: Wed Jan 24 13:09:31 2024
+Ended: Wed Jan 24 13:10:48 2024
+Time elapsed: 77 seconds
+Started: Wed Jan 24 13:11:43 2024
+Ended: Wed Jan 24 13:12:47 2024
+Time elapsed: 64 seconds
+Started: Wed Jan 24 13:13:53 2024
+Ended: Wed Jan 24 13:14:51 2024
+Time elapsed: 58 seconds
+Started: Wed Jan 24 13:18:25 2024
+Ended: Wed Jan 24 13:19:53 2024
+Time elapsed: 88 seconds
+Started: Wed Jan 24 13:21:15 2024
+Ended: Wed Jan 24 13:22:03 2024
+Time elapsed: 48 seconds
+Started: Wed Jan 24 13:24:12 2024
+Ended: Wed Jan 24 13:24:23 2024
+Time elapsed: 11 seconds
+Started: Wed Jan 24 13:24:30 2024
+Ended: Wed Jan 24 13:25:13 2024
+Time elapsed: 43 seconds
+Started: Wed Jan 24 15:21:48 2024
+Ended: Wed Jan 24 15:21:54 2024
+Time elapsed: 6 seconds
+Started: Wed Jan 24 15:22:37 2024
+Ended: Wed Jan 24 15:23:26 2024
+Time elapsed: 49 seconds
+Started: Wed Jan 24 15:25:44 2024
+Ended: Wed Jan 24 15:26:13 2024
+Time elapsed: 29 seconds
+Started: Wed Jan 24 15:28:30 2024
+Ended: Wed Jan 24 15:30:06 2024
+Time elapsed: 96 seconds
+Started: Wed Jan 24 15:35:22 2024
+Ended: Wed Jan 24 15:36:52 2024
+Time elapsed: 90 seconds
+Started: Wed Jan 24 16:00:29 2024
+Ended: Wed Jan 24 16:00:30 2024
+Time elapsed: 1 seconds
+Started: Wed Jan 24 16:03:24 2024
+Ended: Wed Jan 24 16:03:26 2024
+Time elapsed: 2 seconds
+Started: Wed Jan 24 18:19:13 2024
+Ended: Wed Jan 24 18:19:15 2024
+Time elapsed: 2 seconds
+Started: Wed Jan 24 19:49:24 2024
+Ended: Wed Jan 24 19:49:38 2024
+Time elapsed: 14 seconds
+Started: Wed Jan 24 21:23:15 2024
+Ended: Wed Jan 24 21:24:14 2024
+Time elapsed: 59 seconds
+Started: Wed Jan 24 21:24:18 2024
+Ended: Wed Jan 24 21:26:15 2024
+Time elapsed: 117 seconds
+Started: Wed Jan 24 21:30:32 2024
+Ended: Wed Jan 24 21:32:44 2024
+Time elapsed: 132 seconds
+Started: Thu Jan 25 00:49:37 2024
+Ended: Thu Jan 25 00:49:46 2024
+Time elapsed: 9 seconds
+Started: Thu Jan 25 00:50:34 2024
+Ended: Thu Jan 25 00:52:05 2024
+Time elapsed: 91 seconds
+Started: Thu Jan 25 00:52:28 2024
+Ended: Thu Jan 25 00:52:30 2024
+Time elapsed: 2 seconds
+Started: Tue May 07 22:50:18 2024
+Ended: Tue May 07 22:50:22 2024
+Time elapsed: 4 seconds
